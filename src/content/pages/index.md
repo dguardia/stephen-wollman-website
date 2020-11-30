@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Wollman Associates LLC
+tagline: General Contractor
+featuredImage: /assets/stephen-wollman-associates-hero.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: Contact Us
+  ctaLink: /contact
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+With 35 years experience in new contruction and remodeling for residential and commercial, Wollman Associates strives for excellence with personal consideration for each project

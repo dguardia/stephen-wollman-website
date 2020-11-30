@@ -96,6 +96,7 @@
 	margin: 0 auto;
 	max-width: 1240px;
 	padding: 0 20px;
+	display: grid;
 }
 .site-logo {
   font-weight: bold;
@@ -113,6 +114,7 @@
 .home-banner {
 	padding: 60px 0;
 	align-items: center;
+	justify-self: center;
 	.title {
 		font-size: 48px;
 		line-height: 48px;
